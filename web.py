@@ -29,7 +29,7 @@ st.text_input(label="Enter a to-do:", placeholder="Add new todo...",
 # the app is hosted in our computer now
 # you need a hosting service to get the app online
 
-st.session_state  # shows live the data added and edited in the web app,
+#st.session_state  # shows live the data added and edited in the web app,
 # it will help when develping the app, and it must be deleted before publishing the app
 # this is a very specific object of streamlit
 # will contain pairs of data that user enters
